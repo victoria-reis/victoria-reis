@@ -6,8 +6,6 @@
 - 🖥️ See my portfolio at [victoriareis.com](http://www.victoriareis.com/)
 - 🧠 I'm learning React and Drupal
 
-<br/>
-
 ### Skills
 
 <p align="left">
@@ -21,13 +19,9 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-<br />
-
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/victoria-reis" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/-victoriareis/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-<br />
 
 ### Badges
 
@@ -36,8 +30,6 @@
 <a href="http://www.github.com/victoria-reis"><img src="https://github-readme-stats.vercel.app/api?username=victoria-reis&theme=nightowl&show_icons=true" alt="victoria-reis's GitHub stats" /></a>
 
 <a href="https://github.com/victoria-reis" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoria-reis&theme=nightowl&show_icons=true" alt="Top Languages" /></a>
-
-<br />
 
 <b>Top Repositories</b>
 
