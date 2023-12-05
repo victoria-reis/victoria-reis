@@ -2,7 +2,7 @@
 
 ## Frontend Developer
 
-- 🌍 I'm based in Toronto, Canada 🍁
+- 🌍 I'm based in Metro Vancouver, Canada 🍁
 - 🖥️ See my portfolio at [victoriareis.com](http://www.victoriareis.com/)
 - 🧠 I'm learning React and Drupal
 
