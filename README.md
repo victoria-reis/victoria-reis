@@ -3,7 +3,7 @@
 ## Frontend Developer
 
 - 🌍 I'm based in Metro Vancouver, Canada 🍁
-- 🖥️ See my portfolio at [victoriareis.com](http://www.victoriareis.com/)
+- 🖥️ See my portfolio at [victoriareis.netlify.app](https://victoriareis.netlify.app/)
 - 🧠 I'm learning React and Drupal
 
 ### Skills
